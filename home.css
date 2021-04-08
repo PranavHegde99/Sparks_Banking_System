@@ -1,0 +1,71 @@
+body 
+{
+  margin: 0;
+  padding: 0;
+ background: #DBBF9A;
+  font-family: Minion Pro SmBd;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #1b1b44;
+  text-align: left;
+  
+}
+   
+.nav
+{
+    width:100%;
+    background: #000033;
+    height: 36px;
+    opacity:0.6;
+    margin-top:0px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin:0;
+    position:absolute;
+    
+  }
+ .nav a{
+      width: 300px;
+      color: white;
+      display:block;
+      text-decoration:none;
+      font-size: 18px;
+      text-align: center;
+      padding: 04px;
+      border-radius: 04px;
+      font-family: Verdana;
+      font-weight: bold;
+    }
+    .nav a:hover{
+        background: #669900;
+        transition: 0.6s;
+        
+    }
+  li
+ {
+    float: left;
+    margin-top:0px;
+  }
+.align{
+                    position: absolute;
+                    top: 016%;
+                    left: 06.3%;
+                } 
+           .box{
+                    
+                    height: 85%;
+                    width: 99%;
+                    box-sizing: border-box;
+                    background: rgba(0,0,0,.1);
+                    color:blue;
+                }
+               .pad{
+                    padding-bottom: 3%;
+                    padding-top: 6%;
+                    padding-left: 2%;
+                    padding-right:2%;
+                }
+                
